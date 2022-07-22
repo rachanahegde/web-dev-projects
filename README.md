@@ -11,6 +11,5 @@ Designed and built a landing page using Bootstrap 4 (HTML/CSS).
 
 ## Currently studying 
 – JavaScript Algorithms and Data Structures Certificate on FCC 
-
-## Completed Courses
+– The Odin Project
 
