@@ -9,3 +9,8 @@ Rebuilt the google homepage from scratch using HTML and CSS for the Odin Project
 ### [Brewed in Heaven | Bootstrap 4](https://github.com/rachanahegde/brewed-in-heaven)
 Designed and built a landing page using Bootstrap 4 (HTML/CSS).
 
+## Currently studying 
+– JavaScript Algorithms and Data Structures Certificate on FCC 
+
+## Completed Courses
+
