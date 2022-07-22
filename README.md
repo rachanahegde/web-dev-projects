@@ -10,6 +10,6 @@ Rebuilt the google homepage from scratch using HTML and CSS for the Odin Project
 Designed and built a landing page using Bootstrap 4 (HTML/CSS).
 
 ## Currently studying 
-– JavaScript Algorithms and Data Structures Certificate on FCC 
-– The Odin Project
+- JavaScript Algorithms and Data Structures Certificate on FCC 
+- The Odin Project
 
