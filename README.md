@@ -1,5 +1,11 @@
 # Completed Web Development Projects
 ## Beginner Level
+### [Fylo data storage component](https://github.com/rachanahegde/fylo-data-storage-component)
+Responsive storage component built using CSS Grid and SASS based on UI design provided by Frontend Mentor.
+
+### [Order summary component](https://rachanahegde.github.io/order-summary-component/index.html)
+HTML/CSS order summary card component built using CSS grid. Designed by Frontend Mentor & code written by me.
+
 ### [3-column preview card component | HTML/CSS](https://github.com/rachanahegde/3-column-preview-card)
 Built using CSS flexbox. Designed by Frontend Mentor & code written by me.
 
