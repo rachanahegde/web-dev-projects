@@ -1,7 +1,7 @@
 # Completed Web Development Projects
 ## Beginner Level
-### [https://github.com/rachanahegde/age-calculator-app]
-
+### [Age calculator app](https://github.com/rachanahegde/age-calculator-app)
+Age calculator app built using HTML, CSS, and JS with designs provided by Frontend Mentor.
 
 ### [Fylo data storage component](https://github.com/rachanahegde/fylo-data-storage-component)
 Responsive storage component built using CSS Grid and SASS based on UI design provided by Frontend Mentor.
