@@ -1,4 +1,8 @@
 # Completed Web Development Projects
+## Intermediate Level
+### [E-Commerce Product Page](https://github.com/rachanahegde/ecommerce-product-page)
+Product page featuring lightbox product gallery and cart functionality implemented with HTML, CSS, and JavaScript based on UI designs from Frontend Mentor. Enables user to add and remove items to/from cart and view cart.
+
 ## Beginner Level
 ### [Age calculator app](https://github.com/rachanahegde/age-calculator-app)
 Age calculator app built using HTML, CSS, and JS with designs provided by Frontend Mentor.
